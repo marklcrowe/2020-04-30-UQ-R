@@ -315,7 +315,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need to bring your own computer ready to use <a href = "https://my.uq.edu.au/information-and-services/information-technology/internet-and-wifi/connecting-wifi"> the UQ Eduroam wireless network</a>.
+  you will need to provide your own computer and internet connection suitable for video conferencing; a second screen is highly recommended if you have one avaiable.
   In addition, you will need access to the software described below and an up-to-date web browser.
 </p>
 <p>
