@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "QCIF online workshop"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "RVirtual lesson taught over Zoom"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Virtual lesson taught over Zoom"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude:      # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -28,12 +28,6 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-{% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-
-{% endcomment %}
 
 
 {% comment %}
@@ -139,8 +133,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on and can be joined to a wireless network. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants must provide their own computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) and have access to a stable internet connection sufficient for videoconferencing. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
